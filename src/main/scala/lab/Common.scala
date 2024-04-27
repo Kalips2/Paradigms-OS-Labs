@@ -28,5 +28,4 @@ object Common {
       source.getLines().toList
     }.getOrElse(List.empty)
   }
-
 }
